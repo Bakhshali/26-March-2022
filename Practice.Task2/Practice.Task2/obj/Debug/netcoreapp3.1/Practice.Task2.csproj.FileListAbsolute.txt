@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\bin\Debug\netcoreapp3.1\Practice.Task2.exe
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\bin\Debug\netcoreapp3.1\Practice.Task2.deps.json
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\bin\Debug\netcoreapp3.1\Practice.Task2.runtimeconfig.json
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\bin\Debug\netcoreapp3.1\Practice.Task2.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\bin\Debug\netcoreapp3.1\Practice.Task2.dll
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\bin\Debug\netcoreapp3.1\Practice.Task2.pdb
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\obj\Debug\netcoreapp3.1\Practice.Task2.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\obj\Debug\netcoreapp3.1\Practice.Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\obj\Debug\netcoreapp3.1\Practice.Task2.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\obj\Debug\netcoreapp3.1\Practice.Task2.AssemblyInfo.cs
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\obj\Debug\netcoreapp3.1\Practice.Task2.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\obj\Debug\netcoreapp3.1\Practice.Task2.dll
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\obj\Debug\netcoreapp3.1\Practice.Task2.pdb
+C:\Users\Ali\source\repos\Practice.Task2\Practice.Task2\obj\Debug\netcoreapp3.1\Practice.Task2.genruntimeconfig.cache
